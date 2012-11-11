@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mario Face</string>
+    <string name="introtitle">Introduction</string>
+    <string name="introtext">Welcome to Mario Face!\n\nHold the phone up to your mouth and impersonate one of your favorite characters!\n\nUse the volume keys, camera button, and touch screen to open and close the mouth.\n\nHold them down every time you speak.\n\nCycle through faces with back using quick swap.\n\nAdjust settings with menu!</string>
+    <string-array name="options">
+        <item >Cambiar Cara</item>
+        <item >Adjustar Imagen</item>
+        <item >Parada</item>
+                
+    </string-array>
+    <string name="qson">intercambio rápido encendido</string>
+    <string name="qsoff">intercambio rápido apagado</string>
+    <string name="optitle">Opciones</string>
+    <string name="yougotit">vale</string>
+
+</resources>
